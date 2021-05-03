@@ -15,6 +15,8 @@ A játékosnak rendelkezésére áll 3X3 lehetőség, mindegyik 50 pontjába ker
 > 1. Sor törlése
 > 2. Oszlop törlése
 > 3. Új elemek kérése
+
+
 A játéknak akkor van vége, ha a játékos nem tud több elemet lerakni, és elfogyott az összes segítsége, vagy ha nincs elég pontja segítségre.
 A játék végén a játékosnak lehetősége van elmenteni a pontszámát.
 
