@@ -1,0 +1,17 @@
+.pane{
+    -fx-border-style: solid;
+    -fx-border-color: black;
+}
+
+.green{
+    -fx-background-color: green;
+    -fx-fill: green;
+}
+.black{
+    -fx-background-color: #222;
+    -fx-fill: #222;
+}
+.red{
+    -fx-background-color: red;
+    -fx-fill: red;
+  }

@@ -1,0 +1,7 @@
+hu\alkfejl\controller\LeaderboardWindowController.class
+hu\alkfejl\controller\MainWindowController.class
+hu\alkfejl\shape\ShapeManager.class
+hu\alkfejl\App.class
+hu\alkfejl\shape\Shape.class
+hu\alkfejl\controller\GameWindowController.class
+hu\alkfejl\game\GameManager.class
